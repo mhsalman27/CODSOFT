@@ -5,7 +5,7 @@ I can use pre define rand() function in this code including the [cstdlib] header
 I can also use the pre define srand() function in this code by including the [ctime] header file. This function help system to select the every time different secret number.
 This interface will be come after run the code.
 
-                                             -> WELCOME TO GuessTheNumber GAME <- 
+                                               -> WELCOME TO GuessTheNumber GAME <- 
 
 You have to guess any number between 1 to 100.You have limited attempts for choice based on the level of game you select. GOOD LUCK : 
 Select the Level of Difficulty of Game :
@@ -20,9 +20,9 @@ You select the Medium Difficulty Level. So you  have 7 attemps for finding a sec
 
 Enter the Number: here usen can enter the number 
 After the entring the number if number is right . This interface will come.
-Well Played ! You Won 20 : is secrate number :
+ Well Played ! You Won [secret number ] : is secrate number :
 
-                                                                -> THANK YOU FOR PLAYING.I HOPE YOU LIKE IT <-
+                                                -> THANK YOU FOR PLAYING.I HOPE YOU LIKE IT <-
 You can again play this game :!!
 
 
